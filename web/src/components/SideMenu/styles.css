@@ -1,0 +1,21 @@
+.sidemenu {
+    width: 260px;
+    padding: 10px;
+    background-color: #202123;
+}
+
+.sidemenu-btn {
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+    transition: ease 0.25 all;
+}
+
+.sidemenu-btn:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sidemenu-btn span {
+    padding-left: 6px;
+    padding-right: 12px;
+}
