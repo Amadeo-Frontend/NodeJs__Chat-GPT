@@ -1,6 +1,6 @@
 # Chat GPT Clone usando Node.js 🤖
 
-Este projeto é um clone de um chat que utiliza o modelo de linguagem GPT (Generative Pre-trained Transformer) para responder às mensagens dos usuários. É construído com Node.js para o back-end e React.js para o front-end.
+Este projeto é um clone do chat que utiliza o modelo de linguagem GPT (Generative Pre-trained Transformer) para interagir com os usuários. Desenvolvido com Node.js para o backend e React.js para o frontend, o chat integra-se à API do GPT para gerar respostas inteligentes e contextualmente relevantes. Utilizando Axios para comunicação com a API, HTML e CSS para a interface do usuário, o projeto demonstra a integração de tecnologias modernas para oferecer uma experiência de chat envolvente e interativa, enriquecida pela inteligência artificial.
 
 ## Funcionalidades 📋
 
